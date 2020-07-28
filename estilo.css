@@ -1,0 +1,125 @@
+
+body{
+    background-image: url(dinero.jpg);
+}
+
+#borde-salario{
+    font-size: 30px;
+    
+}
+.col{
+    font-size: 20px;
+    line-height: 50px;
+}
+#titulo{
+    font-weight: 500;
+    line-height: 80px;
+    font-size: 70px;
+    font-family: Calibri;
+    text-align: center;
+    text-decoration:underline;
+}
+#boton-salario{
+    line-height: 15px;
+}
+#ingresar-salario{
+    line-height: 25px;
+}
+#total-salario-anual{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+#total-salario-mensual{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+#total-salario-semanal{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+#total-salario-diario{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+#total-salario-hora{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+#total-salario-minuto{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+#total-salario-segundo{
+    border: 2px solid black;
+    font-size: 20px;
+    line-height: 20px;
+    word-spacing: 5pt;
+}
+.container{
+    border: 2px solid black;
+    line-height: 40px;
+    background-color: rgb(138, 200, 138);
+}
+.redes-sociales{
+    border: 2px solid blue;
+    line-height: 40px;
+    background-color: rgb(255, 255, 255);
+    text-indent: 20px;
+}
+.row{
+    line-height: 50px;
+}
+.error{
+    border: 2px solid red;
+}
+#errores{
+    background-color: white;
+}
+
+#salario-usuario{
+    border: 2px solid black;
+}
+#boton-calcular{
+    border: 2px solid black;
+    font-family: Calibri;
+}
+#boton-limpiar{
+    border: 2px solid black;
+    font-family: Calibri;
+}
+#borde-salario{
+    border: 2px solid black;
+}
+#errores li{
+    font-weight: 700;
+    text-decoration:underline;
+    font-size: 30px;
+}
+.twitter{
+    font-weight: 700;
+    text-decoration:underline;
+}
+.instagram{
+    font-weight: 700;
+    text-decoration:underline;
+}
+.facebook{
+    font-weight: 700;
+    text-decoration:underline;
+}
+.email{
+    font-weight: 700;
+    text-decoration:underline;
+}
