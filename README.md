@@ -1,2 +1,2 @@
-# Tarea-clase-10
- Tarea para la clase de r/Argentina Programa
+# Pagina para calcular salario
+ Ingresas el salario anual y calcula el resto
